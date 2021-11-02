@@ -1,0 +1,16 @@
+mat-grid-tile {
+    background: lightblue;
+  }
+
+td {
+  border: 0.05em solid black;
+  height: 2em;
+  width: 2em;
+  font-size: 5em;
+  text-align: center;
+  padding: 0em;
+}
+
+table {
+  border-collapse: collapse;
+}
